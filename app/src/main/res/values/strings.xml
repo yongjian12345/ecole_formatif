@@ -1,15 +1,15 @@
 <resources>
-    <string name="app_name">ecole</string>
-    <string name="travail_nom_hint">Entrez le nom du travail</string>
-    <string name="travail_nom_label">Nom</string>
-    <string name="travail_details_label">Détails</string>
-    <string name="travail_termine_label">Terminé</string>
-    <string name="travail_termine_description">Travail terminé</string>
-    <string name="travail_ajouter">Ajouter un travail</string>
-    <string name="travail_ajouter_coequipier">Ajouter un coéquipier</string>
-    <string name="travail_contacter_coequipier">Contacter un coéquipier</string>
-    <string name="travail_contacter_coequipier_sujet">Message pour le travail %1$s</string>
-    <string name="travail_contacter_coequipier_message">Le travail %1$s doit être remis le %2$s et %3$s.</string>
-    <string name="travail_contacter_coequipier_termine">il est terminé</string>
-    <string name="travail_contacter_coequipier_non_termine">il n’est pas terminé</string>
+    <string name="app_name">school</string>
+    <string name="travail_nom_hint">Enter the name of the homework</string>
+    <string name="travail_nom_label">Name</string>
+    <string name="travail_details_label">Details</string>
+    <string name="travail_termine_label">Done</string>
+    <string name="travail_termine_description">Homework done</string>
+    <string name="travail_ajouter">Add a homework</string>
+    <string name="travail_ajouter_coequipier">Add a teammate</string>
+    <string name="travail_contacter_coequipier">Contact a teammate</string>
+    <string name="travail_contacter_coequipier_sujet">Message for the homework %1$s</string>
+    <string name="travail_contacter_coequipier_message">The homework should be handed in the %1$s, the %2$s and %3$s.</string>
+    <string name="travail_contacter_coequipier_termine">It is done</string>
+    <string name="travail_contacter_coequipier_non_termine">It isnt done</string>
 </resources>
